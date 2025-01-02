@@ -6,3 +6,7 @@
 ##
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eepun&layout=compact&theme=radical)
+
+##
+
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eepun&theme=radical)
