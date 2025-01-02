@@ -1,1 +1,8 @@
-![GitHub Commit Stats](https://github-readme-streak-stats.herokuapp.com/?user=eepun&theme=radical)
+# eepun
+[![follow me plz](https://img.shields.io/github/followers/eepun?label=Follow&style=social)](https://github.com/eepun)
+
+![commits](https://github-readme-streak-stats.herokuapp.com/?user=eepun&theme=radical)
+
+##
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eepun&layout=compact&theme=radical)
